@@ -1,2 +1,2 @@
 # JunkBoy
-Brackeys Game jam aug 2020
+Brackeys Game jam August2020
