@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: LEft slope
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -5412910156287300836, guid: f390a5bfefbfa18418dbd4ca3916ec50, type: 3}
+  - {fileID: -1309200671739975246, guid: f390a5bfefbfa18418dbd4ca3916ec50, type: 3}
+  - {fileID: 8947199123276383350, guid: f390a5bfefbfa18418dbd4ca3916ec50, type: 3}
+  - {fileID: -6211615099623891331, guid: f390a5bfefbfa18418dbd4ca3916ec50, type: 3}
+  - {fileID: 3781271057631375301, guid: f390a5bfefbfa18418dbd4ca3916ec50, type: 3}
+  - {fileID: -2451848695137512529, guid: f390a5bfefbfa18418dbd4ca3916ec50, type: 3}
+  - {fileID: -285421203604468998, guid: f390a5bfefbfa18418dbd4ca3916ec50, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
